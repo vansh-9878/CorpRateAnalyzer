@@ -34,7 +34,7 @@ pip install requests beautifulsoup4 vaderSentiment
 ## Installation
 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/CorpRateAnalyzer.git
+git clone https://github.com/vansh-9878/CorpRateAnalyzer.git
 ```
 Navigate to the project directory:
 ```bash
