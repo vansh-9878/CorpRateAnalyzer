@@ -34,11 +34,11 @@ pip install requests beautifulsoup4 vaderSentiment
 ## Installation
 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/CompanyReviewRater.git
+git clone https://github.com/yourusername/CorpRateAnalyzer.git
 ```
 Navigate to the project directory:
 ```bash
-cd CompanyReviewRater
+cd CorpRateAnalyzer
 ```
 Install the required Python packages:
 ```bash
@@ -48,7 +48,7 @@ Usage
 To use the program, simply run the Python script and input the company's name when prompted:
 
 ```bash
-python company_review_rater.py
+python webCrawler.py
 ```
 
 
